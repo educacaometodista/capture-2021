@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/LeuAlmeida/capture-2021-app.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LeuAlmeida/capture-2021-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LeuAlmeida/capture-2021-backend.git
